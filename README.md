@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Cristian 👋
 
-<!--
-**c3craciu/c3craciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Engineering Student  
+📊 Interested in Product Management, Data Analytics, and Tech  
+🏀 Varsity Basketball Captain  
 
-Here are some ideas to get you started:
+Projects:
+- Movie Review Web App (React, Node.js, MySQL)
+- Supply Chain Data Analysis (Python, Excel)
+- Product Management Case Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning:
+- Power BI
+- Product Strategy
+- Data Analytics
+
+Connect with me:
+LinkedIn: (https://www.linkedin.com/in/cristian-craciun-191692260/)
