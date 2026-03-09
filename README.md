@@ -1,4 +1,4 @@
-Hi, I'm Cristian 👋
+Hi, I'm Cristian Craciun👋
 
 🎓 Management Engineering Student  
 📊 Interested in Product Management, Data Analytics, and Tech  
